@@ -47,4 +47,3 @@ train_work = get_work(train_mass, train_acceleration, train_distance)
 
 
 print("The GE train does", str(train_work),"Joules of work over", train_distance, "meters.")
-11211
